@@ -1,3 +1,6 @@
+/**
+ * @author Adrian
+ */
 package jenkinsTest;
 
 public class Test {
