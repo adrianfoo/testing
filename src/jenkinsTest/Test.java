@@ -1,5 +1,5 @@
 /*
- * haha
+ * @author User
  */
 package jenkinsTest;
 
