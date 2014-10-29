@@ -1,6 +1,4 @@
-/*
- * @author User
- */
+
 package jenkinsTest;
 
 public class Test {
