@@ -1,0 +1,1 @@
+git revert head --no-edit
