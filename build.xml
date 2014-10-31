@@ -40,7 +40,7 @@ target: compile
 
 			<classpath refid="tests.classpath" />
 
-			<test name="src.jenkinsTest.TestTest" />
+			<test name="jenkinsTest.TestTest" />
 
 		</junit>
 
