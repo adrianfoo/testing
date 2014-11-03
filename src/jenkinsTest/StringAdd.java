@@ -1,5 +1,5 @@
 /*
- * author Adrian
+ * author
  */
 
 package jenkinsTest;
