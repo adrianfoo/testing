@@ -1,12 +1,8 @@
-/* 
- * @author
- */
+
 
 package jenkinsTest;
 
 public class StringAdd {
-
-	
 	public static void main(String[] args){
 		StringAdd test = new StringAdd();
 		String add = test.addTogether("Hello", "World");
