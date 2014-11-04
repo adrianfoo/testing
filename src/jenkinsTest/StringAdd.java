@@ -1,6 +1,7 @@
-/*
- * author: Adrian
- */
+// Filename:		StringAdd.java
+// Created:			11/4/1014
+// Last Changed:	11/4/1014 09:32:00
+// Author:			Adrian
 
 package jenkinsTest;
 
