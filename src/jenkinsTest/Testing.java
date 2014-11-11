@@ -16,5 +16,8 @@ public class Testing {
 		public String plusTogether(String abc, String def){
 			return abc+def;
 		}
+		public String Together(String abc, String def){
+			return abc+def;
+		}
 
 }
