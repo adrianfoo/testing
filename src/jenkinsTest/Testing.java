@@ -13,5 +13,8 @@ public class Testing {
 		public String addTogether(String abc, String def){
 			return abc+def;
 		}
+		public String plusTogether(String abc, String def){
+			return abc+def;
+		}
 
 }
