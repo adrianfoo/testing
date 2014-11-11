@@ -1,8 +1,3 @@
-// Filename:		StringAdd.java
-// Created:			2014/04/11
-// Last Changed:	2014/04/11 09:32:00
-// Author:			Adrian
-
 package jenkinsTest;
 
 public class Testing {
