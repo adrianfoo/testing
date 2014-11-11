@@ -11,7 +11,7 @@ public class StringAdd {
 		System.out.println(add.addTogether("one", "two"));
 	}
 	public String addTogether(String one, String two){
-		return one+two;
+		return one+two
 	}
 
 }
