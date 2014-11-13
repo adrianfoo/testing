@@ -27,4 +27,7 @@ public class StringAdd {
 	public void printJenkinsSonar(){
 		System.out.println("Jenkins Sonar");
 	}
+	public void printLALA(){
+		
+	}
 }
