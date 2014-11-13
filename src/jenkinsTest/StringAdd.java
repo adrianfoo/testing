@@ -14,4 +14,7 @@ public class StringAdd {
 		return one+two;
 	}
 
+	public void printHelloWorld(){
+		System.out.println("Hello World");
+	}
 }
