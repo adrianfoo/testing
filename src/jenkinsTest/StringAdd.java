@@ -24,4 +24,7 @@ public class StringAdd {
 	public void printSonar() {
 		System.out.println("Sonar");
 	}
+	public void printJenkinsSonar(){
+		System.out.println("Jenkins Sonar");
+	}
 }
