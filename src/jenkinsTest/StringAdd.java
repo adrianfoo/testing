@@ -17,4 +17,8 @@ public class StringAdd {
 	public void printHelloWorld(){
 		System.out.println("Hello World");
 	}
+	
+	public void printJenkins(){
+		System.out.println("Jenkins");
+	}
 }
