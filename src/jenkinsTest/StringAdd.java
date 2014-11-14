@@ -14,4 +14,20 @@ public class StringAdd {
 		return one+two;
 	}
 
+	public void printHelloWorld(){
+		System.out.println("Hello World");
+	}
+	
+	public void printJenkins(){
+		System.out.println("Jenkins");
+	}
+	public void printSonar() {
+		System.out.println("Sonar");
+	}
+	public void printJenkinsSonar(){
+		System.out.println("Jenkins Sonar");
+	}
+	public void printLALA(){
+		System.out.println("haha");
+	}
 }
