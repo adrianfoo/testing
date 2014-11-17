@@ -28,6 +28,6 @@ public class StringAdd {
 		System.out.println("Jenkins Sonar");
 	}
 	public void printLALA(){
-		System.out.println("ha");
+		System.out.println("h");
 	}
 }
